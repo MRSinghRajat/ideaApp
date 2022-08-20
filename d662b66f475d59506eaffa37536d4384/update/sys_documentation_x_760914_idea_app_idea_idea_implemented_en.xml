@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="idea_implemented" label="idea implemented" language="en" table="x_760914_idea_app_idea">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>idea_implemented</element>
+            <help/>
+            <hint/>
+            <label>idea implemented</label>
+            <language>en</language>
+            <name>x_760914_idea_app_idea</name>
+            <plural>idea implemented</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-20 05:20:08</sys_created_on>
+            <sys_id>0584fe2747dd59506eaffa37536d4329</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>idea implemented</sys_name>
+            <sys_package display_value="Idea App" source="x_760914_idea_app">d662b66f475d59506eaffa37536d4384</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Idea App">d662b66f475d59506eaffa37536d4384</sys_scope>
+            <sys_update_name>sys_documentation_x_760914_idea_app_idea_idea_implemented_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-20 05:20:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

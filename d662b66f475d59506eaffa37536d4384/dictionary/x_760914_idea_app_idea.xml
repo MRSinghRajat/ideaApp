@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Idea" max_length="40" name="x_760914_idea_app_idea" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="1000" name="description" type="string"/>
+        <element label="idea implemented" max_length="40" name="idea_implemented" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Idea Type" max_length="40" name="idea_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Finance" value="finance"/>
+                <element inactive_on_update="false" label="Sales" value="sales"/>
+                <element inactive_on_update="false" label="Team Building" value="team_building"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="46" name="short_description" type="string"/>
+    </element>
+</database>
